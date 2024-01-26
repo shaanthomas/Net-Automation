@@ -1,0 +1,4 @@
+collections:
+  - community.general
+  - ansible.posix
+  - redhat.rhel_system_roles
